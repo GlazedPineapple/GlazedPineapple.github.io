@@ -1,0 +1,21 @@
+.pink {
+    /* property: value; */
+    font-weight: bolder;
+    color: #fe0080;
+}
+.blackback {
+    color: white;
+    background-color: #000000;
+}
+.annoy {
+    color: #98a09d;
+    background-color: #025a5a;
+}
+
+ol li {
+    color: red;
+}
+ol ol.rome li {
+    color: green;
+    list-style-type: upper-roman
+}
