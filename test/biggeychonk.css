@@ -1,0 +1,17 @@
+body {
+    background-color: #272727;
+    color: #ffffff;
+    margin: 0;
+}
+
+header {
+    background-color: #505050;
+    margin: 0;
+}
+
+header a {
+    color: #ffffff;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+}
